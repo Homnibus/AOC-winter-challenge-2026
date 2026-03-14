@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / binaries
+build/
+dist/
+out/
+*.exe
+*.dll
+*.obj
+
+# Logs
+*.log
+
+# Challenge artifacts
+replays/
+exports/
