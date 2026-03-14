@@ -11,6 +11,7 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 *.pyo
+*.egg-info/
 .venv/
 venv/
 
@@ -34,3 +35,10 @@ out/
 # Challenge artifacts
 replays/
 exports/
+notes/reports/
+
+# Local external engine clone
+external/
+
+# Local tool cache (Maven bootstrap)
+.tools/
